@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalacalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/scalacalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaCalculator-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaCalculator-build.iml" />
     </modules>
   </component>
 </project>
