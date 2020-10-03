@@ -1,9 +1,8 @@
 import java.io.{File, PrintWriter}
-
 import io.circe.generic.auto._
 import io.circe.syntax._
 
-object Parser extends App {
+object Main extends App {
 
   def parsefunc(): Unit = {
 
