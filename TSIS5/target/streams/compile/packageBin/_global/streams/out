@@ -1,0 +1,25 @@
+[debug] Packaging /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/tsis5_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Main$Product$2$.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$Product$2$.class
+[debug] 	Main$.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$.class
+[debug] 	Main$anon$importedEncoder$macro$13$1.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$anon$importedEncoder$macro$13$1.class
+[debug] 	Main$anon$importedEncoder$macro$13$1$anon$macro$11$1.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$anon$importedEncoder$macro$13$1$anon$macro$11$1.class
+[debug] 	Main$Product$1.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$Product$1.class
+[debug] 	Main$Check$2$.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$Check$2$.class
+[debug] 	Main$Check$1.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$Check$1.class
+[debug] 	Main$anon$importedEncoder$macro$13$1$$anon$1.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$anon$importedEncoder$macro$13$1$$anon$1.class
+[debug] 	Main.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$delayedInit$body.class
+[debug] 	Main$anon$importedEncoder$macro$13$1$$anon$2.class
+[debug] 	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/target/scala-2.13/classes/Main$anon$importedEncoder$macro$13$1$$anon$2.class
+[debug] Done packaging.

@@ -8,7 +8,7 @@ object Main extends App {
 
     import scala.io.Source
 
-    val lines = Source.fromFile("/Users/beket/Desktop/raw.txt").getLines.toList.drop(12).dropRight(17)
+    val lines = Source.fromFile("/Users/beket/Desktop/KBTU/ScalaKBTU/raw.txt").getLines.toList.drop(12).dropRight(17)
 
     case class Product(title: String, totalPrice: String, cnt: String, price: String)
     case class Check(products: Array[Product])
@@ -44,9 +44,9 @@ object Main extends App {
     })
 
     val json = check.asJson.noSpaces
-    println(json)
+//    println(json(3))
 
-    val pw = new PrintWriter(new File("/Users/beket/Desktop/raw.txt"))
+    val pw = new PrintWriter(new File("/Users/beket/Desktop/KBTU/ScalaKBTU/raw.txt"))
     pw.write(json)
     pw.close
   }

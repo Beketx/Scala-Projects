@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/beket/Desktop/ScalaKBTU/scalaCalculator/TSIS5/build.sbt","e110987dad0c4cbbd49d098538a3141ef9ed7803"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/TSIS5/build.sbt","e110987dad0c4cbbd49d098538a3141ef9ed7803"]],"lastModifiedTimes":[]}]
