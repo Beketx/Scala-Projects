@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/target/scala-2.13/addressbook_2.13-0.1-sources.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/resources/logback.xml[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/resources/application.conf[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	directives/TodoDirectives.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/directives/TodoDirectives.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	directives/ValidatorDirectives.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/directives/ValidatorDirectives.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	route/Router.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/route/Router.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	route/HealthCheackRoute.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/route/HealthCheackRoute.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	server/Server.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/server/Server.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	server/HttpServerSample.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/server/HttpServerSample.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	model/AddressBook.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/model/AddressBook.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	model/Todo.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/model/Todo.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	validators/ApiError.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/validators/ApiError.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	validators/Validator.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/validators/Validator.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	repo/AddressBookRepository.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/repo/AddressBookRepository.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	repo/TodoRepository.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/repo/TodoRepository.scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J

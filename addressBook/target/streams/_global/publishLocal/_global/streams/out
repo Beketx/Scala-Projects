@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: default#addressbook_2.13;0.1 :: 0.1 :: release :: Tue Nov 03 12:54:31 ALMT 2020[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Tue Nov 03 12:54:31 ALMT 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/target/scala-2.13/ivy-0.1.xml[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (54ms)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m	published addressbook_2.13 to /Users/beket/.ivy2/local/default/addressbook_2.13/0.1/poms/addressbook_2.13.pom[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m	published addressbook_2.13 to /Users/beket/.ivy2/local/default/addressbook_2.13/0.1/jars/addressbook_2.13.jar[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m	published addressbook_2.13 to /Users/beket/.ivy2/local/default/addressbook_2.13/0.1/srcs/addressbook_2.13-sources.jar[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m	published addressbook_2.13 to /Users/beket/.ivy2/local/default/addressbook_2.13/0.1/docs/addressbook_2.13-javadoc.jar[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /Users/beket/.ivy2/local/default/addressbook_2.13/0.1/ivys/ivy.xml[0m[0J

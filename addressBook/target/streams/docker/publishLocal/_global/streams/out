@@ -1,0 +1,41 @@
+[0m[[0m[0mdebug[0m] [0m[0mExecuting Native docker build --force-rm -t akkahttp-quickstart:0.1 .[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mWorking directory /Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/target/docker/stage[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mSending build context to Docker daemon  39.17MB[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStep 1/6 : FROM openjdk:8-jre-alpine[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m8-jre-alpine: Pulling from library/openjdk[0m[0J
+[0m[[0m[0minfo[0m] [0m[0me7c96db7181b: Pulling fs layer[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mf910a506b6cb: Pulling fs layer[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mb6abafe80f63: Pulling fs layer[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mf910a506b6cb: Verifying Checksum[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mf910a506b6cb: Download complete[0m[0J
+[0m[[0m[0minfo[0m] [0m[0me7c96db7181b: Verifying Checksum[0m[0J
+[0m[[0m[0minfo[0m] [0m[0me7c96db7181b: Download complete[0m[0J
+[0m[[0m[0minfo[0m] [0m[0me7c96db7181b: Pull complete[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mf910a506b6cb: Pull complete[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mb6abafe80f63: Verifying Checksum[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mb6abafe80f63: Download complete[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mb6abafe80f63: Pull complete[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mDigest: sha256:f362b165b870ef129cbe730f29065ff37399c0aa8bcab3e44b51c302938c9193[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStatus: Downloaded newer image for openjdk:8-jre-alpine[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> f7a292bbb70c[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStep 2/6 : WORKDIR /opt/docker[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 6ec8f00edec1[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 6ec8f00edec1[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> 61215d215a20[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStep 3/6 : ADD --chown=daemon:daemon opt /opt[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> f25951967a76[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStep 4/6 : USER daemon[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 95fc6a115ee1[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 95fc6a115ee1[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> f23108dcbccb[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStep 5/6 : ENTRYPOINT ["/opt/docker/bin/addressbook"][0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 1f54f60ff370[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 1f54f60ff370[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> 26019b320f11[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mStep 6/6 : CMD [][0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in b043db6019eb[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container b043db6019eb[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m ---> 39eecb9723dc[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully built 39eecb9723dc[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully tagged akkahttp-quickstart:0.1[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mBuilt image akkahttp-quickstart with tags [0.1][0m[0J
