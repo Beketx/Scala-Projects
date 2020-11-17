@@ -1,0 +1,29 @@
+[debug] > Exec(docker:publish, None, None)
+[debug] Evaluating tasks: Docker / publish
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote F:\Aset\Documents\Асет\Университет\5 семестр\Backend For High-Load Environments\SIS\week_9\target\scala-2.13\week_9_2.13-0.1.pom
+[error] error during connect: Post http://%2F%2F.%2Fpipe%2Fdocker_engine/v1.40/build?buildargs=%7B%7D&cachefrom=%5B%5D&cgroupparent=&cpuperiod=0&cpuquota=0&cpusetcpus=&cpusetmems=&cpushares=0&dockerfile=Dockerfile&forcerm=1&labels=%7B%7D&memory=0&memswap=0&networkmode=default&rm=1&session=uaue3y9exz1mgc344ow5jz9ig&shmsize=0&t=192.168.1.132%3A2376%2Fakka-http-quickstart%3A0.1&target=&ulimits=null&version=1: open //./pipe/docker_engine: The system cannot find the file specified. In the default daemon configuration on Windows, the docker client must be run elevated to connect. This error may also indicate that the docker daemon is not running.
+[error] java.lang.RuntimeException: Nonzero exit value: 1
+[error] 	at com.typesafe.sbt.packager.docker.DockerPlugin$.publishLocalDocker(DockerPlugin.scala:351)
+[error] 	at com.typesafe.sbt.packager.docker.DockerPlugin$.$anonfun$projectSettings$30(DockerPlugin.scala:126)
+[error] 	at com.typesafe.sbt.packager.docker.DockerPlugin$.$anonfun$projectSettings$30$adapted(DockerPlugin.scala:124)
+[error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+[error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:62)
+[error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:68)
+[error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:282)
+[error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:23)
+[error] 	at sbt.Execute.work(Execute.scala:291)
+[error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:282)
+[error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+[error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:64)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+[error] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[error] (Docker / publishLocal) Nonzero exit value: 1
+[error] Total time: 2 s, completed 2 нояб. 2020 г., 22:34:43
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

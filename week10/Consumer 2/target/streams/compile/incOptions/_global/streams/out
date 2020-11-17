@@ -1,0 +1,17 @@
+[debug] Created transactional ClassFileManager with tempDir = F:\Aset\Documents\Асет\Университет\5 семестр\Backend For High-Load Environments\SIS\week_10\Consumer 2\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	Main$.class
+[debug] 	Main.class
+[debug] 	OffsetStore.class
+[debug] 	OffsetStore$.class
+[debug] We backup class files:
+[debug] 	Main$.class
+[debug] 	Main.class
+[debug] 	OffsetStore.class
+[debug] 	OffsetStore$.class
+[debug] Registering generated classes:
+[debug] 	Main$.class
+[debug] 	Main.class
+[debug] 	OffsetStore.class
+[debug] 	OffsetStore$.class
+[debug] Removing the temporary directory used for backing up class files: F:\Aset\Documents\Асет\Университет\5 семестр\Backend For High-Load Environments\SIS\week_10\Consumer 2\target\scala-2.13\classes.bak
