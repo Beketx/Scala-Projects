@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mExecuting Native docker build --force-rm -t leetcodeproblems:0.1 .[0m
+[0m[[0m[0mdebug[0m] [0m[0mWorking directory /home/mars/IdeaProjects/LeetCodeProblems/target/docker/stage[0m
+[0m[[0m[0minfo[0m] [0m[0mSending build context to Docker daemon  39.67MB[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 1/6 : FROM openjdk:8-jre-alpine[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> f7a292bbb70c[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 2/6 : WORKDIR /opt/docker[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 72f42befe920[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 3/6 : ADD --chown=daemon:daemon opt /opt[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 40d78f31997c[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 4/6 : USER daemon[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 5daa21d0c34d[0m
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 5daa21d0c34d[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> e8709046f4ee[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 5/6 : ENTRYPOINT ["/opt/docker/bin/leetcodeproblems"][0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 02aa6387406f[0m
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 02aa6387406f[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> a977ec451c9c[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 6/6 : CMD ["/opt/docker/bin/leetcodeproblems"][0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in e042002e3047[0m
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container e042002e3047[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> fc91d355b14a[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully built fc91d355b14a[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully tagged leetcodeproblems:0.1[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt image leetcodeproblems with tags [0.1][0m

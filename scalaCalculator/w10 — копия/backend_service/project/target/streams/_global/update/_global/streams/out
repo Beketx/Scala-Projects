@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/F:/Aset/Documents/Асет/Университет/5%20семестр/Backend%20For%20High-Load%20Environments/SIS/week_10/backend_service/project/"), "backend_service-build")...
+[debug] Done updating ProjectRef(uri("file:/F:/Aset/Documents/Асет/Университет/5%20семестр/Backend%20For%20High-Load%20Environments/SIS/week_10/backend_service/project/"), "backend_service-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

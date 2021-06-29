@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/beket/Desktop/KBTU/ScalaKBTU/Akka_hello/project/target/.sbt-compilation-infos/akka_hello-compile/.sbt-idea-lock ...[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/Users/beket/Desktop/KBTU/ScalaKBTU/Akka_hello/src/main/scala/HelloWorld.scala:9:52: not a legal formal parameter.[0m[0J
+[0m[[0m[31merror[0m] [0m[0mNote: Tuples cannot be directly destructured in method or function parameters.[0m[0J
+[0m[[0m[31merror[0m] [0m[0m      Either create a single parameter accepting the Tuple1,[0m[0J
+[0m[[0m[31merror[0m] [0m[0m      or consider a pattern matching anonymous function: `{ case (param1, param1) => ... }[0m[0J
+[0m[[0m[31merror[0m] [0m[0m  def apply(): Behavior[Greet] = Behaviors.receive { (context, message)} =>[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/Users/beket/Desktop/KBTU/ScalaKBTU/Akka_hello/src/main/scala/HelloWorld.scala:51:1: expected class or object definition[0m[0J
+[0m[[0m[31merror[0m] [0m[0mval system: ActorSystem[HelloWorldMain.SayHello] =[0m[0J
+[0m[[0m[31merror[0m] [0m[0m^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/Users/beket/Desktop/KBTU/ScalaKBTU/Akka_hello/src/main/scala/HelloWorld.scala:54:1: expected class or object definition[0m[0J
+[0m[[0m[31merror[0m] [0m[0msystem ! HelloWorldMain.SayHello("World")[0m[0J
+[0m[[0m[31merror[0m] [0m[0m^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/Users/beket/Desktop/KBTU/ScalaKBTU/Akka_hello/src/main/scala/HelloWorld.scala:55:1: expected class or object definition[0m[0J
+[0m[[0m[31merror[0m] [0m[0msystem ! HelloWorldMain.SayHello("Akka")[0m[0J
+[0m[[0m[31merror[0m] [0m[0m^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/beket/Desktop/KBTU/ScalaKBTU/Akka_hello/project/target/.sbt-compilation-infos/akka_hello-compile/.sbt-idea-lock.[0m[0J

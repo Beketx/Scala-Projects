@@ -1,0 +1,11 @@
+[debug] Packaging /home/olzhas/IdeaProjects/backend/target/scala-2.13/week8_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	application.conf
+[debug] 	  /home/olzhas/IdeaProjects/backend/target/scala-2.13/classes/application.conf
+[debug] 	HttpServerSample.class
+[debug] 	  /home/olzhas/IdeaProjects/backend/target/scala-2.13/classes/HttpServerSample.class
+[debug] 	HttpServerSample$.class
+[debug] 	  /home/olzhas/IdeaProjects/backend/target/scala-2.13/classes/HttpServerSample$.class
+[debug] 	logback.xml
+[debug] 	  /home/olzhas/IdeaProjects/backend/target/scala-2.13/classes/logback.xml
+[debug] Done packaging.

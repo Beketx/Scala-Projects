@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/beket/Desktop/KBTU/ScalaKBTU/scalaCalculator/addressBook/src/main/scala/directives/TodoDirectives.scala:12:96: match may not be exhaustive.[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Failure(_)[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m  def handle[T](f: Future[T])(e: Throwable => ApiError): Directive1[T] = onComplete(f) flatMap {[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                               ^[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m[0J

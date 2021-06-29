@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c931abc0-580f-489b-932d-eed4cf842eb7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Calculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Calculator.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hUMVxbHxwlxWmpHrM5gwAcZXan" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCodeProblems" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/calculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Scala REPL.Scala REPL">
+    <configuration name="CalculatorInteractive" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorInteractive" />
+      <module name="calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="PetProjects" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="Application.CalculatorInteractive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c931abc0-580f-489b-932d-eed4cf842eb7" name="Default Changelist" comment="" />
+      <created>1600061246222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600061246222</updated>
+      <workItem from="1600061247325" duration="57000" />
+      <workItem from="1600061325662" duration="48000" />
+      <workItem from="1600624841628" duration="361000" />
+      <workItem from="1600625205628" duration="256000" />
+      <workItem from="1600625470422" duration="21000" />
+      <workItem from="1600625496101" duration="81000" />
+      <workItem from="1600625586106" duration="83000" />
+      <workItem from="1600625680679" duration="24000" />
+      <workItem from="1600625712757" duration="247000" />
+      <workItem from="1600625971400" duration="62000" />
+      <workItem from="1600626053446" duration="352000" />
+      <workItem from="1600626417622" duration="6000" />
+      <workItem from="1600626436700" duration="44000" />
+      <workItem from="1600638625808" duration="277000" />
+      <workItem from="1600781821718" duration="2570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600786033326">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="418" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1600786033326" />
+    <state x="675" y="450" width="559" height="174" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1600626169858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="675" y="450" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626169858" />
+    <state x="675" y="446" width="559" height="174" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1600061292132" />
+    <state x="743" y="282" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600786544985">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="743" y="274" width="424" height="491" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626400923" />
+    <state x="743" y="282" key="FileChooserDialogImpl/0.27.1920.1005@0.27.1920.1005" timestamp="1600786544985" />
+    <state width="1874" height="540" key="GridCell.Tab.0.bottom" timestamp="1600786548288">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626405575" />
+    <state width="1874" height="540" key="GridCell.Tab.0.bottom/0.27.1920.1005@0.27.1920.1005" timestamp="1600786548288" />
+    <state width="1874" height="540" key="GridCell.Tab.0.center" timestamp="1600786548287">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626405575" />
+    <state width="1874" height="540" key="GridCell.Tab.0.center/0.27.1920.1005@0.27.1920.1005" timestamp="1600786548287" />
+    <state width="1874" height="540" key="GridCell.Tab.0.left" timestamp="1600786548286">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626405575" />
+    <state width="1874" height="540" key="GridCell.Tab.0.left/0.27.1920.1005@0.27.1920.1005" timestamp="1600786548286" />
+    <state width="1874" height="540" key="GridCell.Tab.0.right" timestamp="1600786548287">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626405575" />
+    <state width="1874" height="540" key="GridCell.Tab.0.right/0.27.1920.1005@0.27.1920.1005" timestamp="1600786548287" />
+    <state x="449" y="151" width="1022" height="737" key="SettingsEditor" timestamp="1600626359385">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="151" width="1022" height="737" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626359385" />
+  </component>
+</project>

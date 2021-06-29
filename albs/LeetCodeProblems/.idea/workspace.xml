@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d68c7fa-98bf-4990-a4ac-86680679a2e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LeetCodeProblems" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hmqH08fFbxxN7TFFUUwVdAyIUn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/week7" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week7.PingPong" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/week7" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/scala/week5" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpServerSample">
+    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week6.akka_calculator.CalculatorMain" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.akka_calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTTPServerRouting" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week7.QuickstartExample.HTTPServerRouting" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.QuickstartExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServerSample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week9.AddressBook.HttpServerSample" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.AddressBook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week6.akka_example.Main" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.akka_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickstartApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week8.QuickstartExample.QuickstartApp" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.QuickstartExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="tasks" value="run" />
+      <option name="useSbtShell" value="false" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.CalculatorMain" />
+      <item itemvalue="Application.HTTPServerRouting" />
+      <item itemvalue="Application.QuickstartApp" />
+      <item itemvalue="Application.HttpServerSample" />
+      <item itemvalue="sbt Task.Run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpServerSample" />
+        <item itemvalue="Application.QuickstartApp" />
+        <item itemvalue="Application.HTTPServerRouting" />
+        <item itemvalue="Application.CalculatorMain" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d68c7fa-98bf-4990-a4ac-86680679a2e7" name="Default Changelist" comment="" />
+      <created>1600626523418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600626523418</updated>
+      <workItem from="1600626524470" duration="10821000" />
+      <workItem from="1600638612946" duration="10000" />
+      <workItem from="1600786550518" duration="356000" />
+      <workItem from="1600787439733" duration="3132000" />
+      <workItem from="1600790722992" duration="575000" />
+      <workItem from="1601313976534" duration="1976000" />
+      <workItem from="1601451072176" duration="325000" />
+      <workItem from="1601452799271" duration="1930000" />
+      <workItem from="1601691037543" duration="11054000" />
+      <workItem from="1601702166960" duration="1781000" />
+      <workItem from="1601703958477" duration="1075000" />
+      <workItem from="1601706935573" duration="3029000" />
+      <workItem from="1601788228566" duration="1485000" />
+      <workItem from="1603110497490" duration="1760000" />
+      <workItem from="1603112273101" duration="4559000" />
+      <workItem from="1603196971537" duration="12000" />
+      <workItem from="1603542051563" duration="429000" />
+      <workItem from="1604232903999" duration="1200000" />
+      <workItem from="1604324940206" duration="4356000" />
+      <workItem from="1604331685220" duration="35000" />
+      <workItem from="1604331732861" duration="5362000" />
+      <workItem from="1605538786891" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="114" width="1024" height="852" key="#Project_Structure" timestamp="1600790231412">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="444" y="93" width="1024" height="852" key="#Project_Structure/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600626576006" />
+    <state x="444" y="114" key="#Project_Structure/0.27.1920.1005@0.27.1920.1005" timestamp="1600790231412" />
+    <state x="418" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601704677821">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="418" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1601704677821" />
+    <state x="625" y="1473" width="660" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600637718176">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="625" y="1473" width="660" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600637718176" />
+    <state x="693" y="286" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604330436458">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="693" y="1358" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601694118229" />
+    <state x="693" y="286" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1604330436458" />
+    <state x="625" y="360" width="660" height="346" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600786747428">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="625" y="360" width="660" height="346" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1920.1005@0.27.1920.1005" timestamp="1600786747428" />
+    <state x="744" y="294" width="735" height="457" key="FileChooserDialogImpl" timestamp="1600790400235">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="743" y="1367" width="424" height="491" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600638620492" />
+    <state x="744" y="294" width="735" height="457" key="FileChooserDialogImpl/0.27.1920.1005@0.27.1920.1005" timestamp="1600790400235" />
+    <state width="1874" height="265" key="GridCell.Tab.0.bottom" timestamp="1604337284919">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601709383892" />
+    <state width="1874" height="266" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601709964803" />
+    <state width="1874" height="265" key="GridCell.Tab.0.bottom/0.27.1920.1005@0.27.1920.1005" timestamp="1604337284919" />
+    <state width="1874" height="265" key="GridCell.Tab.0.center" timestamp="1604337284919">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601709383892" />
+    <state width="1874" height="266" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601709964803" />
+    <state width="1874" height="265" key="GridCell.Tab.0.center/0.27.1920.1005@0.27.1920.1005" timestamp="1604337284919" />
+    <state width="1874" height="265" key="GridCell.Tab.0.left" timestamp="1604337284919">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601709383892" />
+    <state width="1874" height="266" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601709964803" />
+    <state width="1874" height="265" key="GridCell.Tab.0.left/0.27.1920.1005@0.27.1920.1005" timestamp="1604337284919" />
+    <state width="1874" height="265" key="GridCell.Tab.0.right" timestamp="1604337284919">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601709383892" />
+    <state width="1874" height="266" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601709964803" />
+    <state width="1874" height="265" key="GridCell.Tab.0.right/0.27.1920.1005@0.27.1920.1005" timestamp="1604337284919" />
+    <state width="1874" height="320" key="GridCell.Tab.1.bottom" timestamp="1601702093226">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601702093226" />
+    <state width="1874" height="320" key="GridCell.Tab.1.center" timestamp="1601702093225">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601702093225" />
+    <state width="1874" height="320" key="GridCell.Tab.1.left" timestamp="1601702093225">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601702093225" />
+    <state width="1874" height="320" key="GridCell.Tab.1.right" timestamp="1601702093226">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601702093226" />
+    <state x="496" y="216" width="1022" height="737" key="SettingsEditor" timestamp="1600790417908">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="449" y="1244" width="1022" height="737" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600626681953" />
+    <state x="496" y="216" width="1022" height="737" key="SettingsEditor/0.27.1920.1005@0.27.1920.1005" timestamp="1600790417908" />
+    <state x="689" y="260" width="639" height="524" key="StructurePopup" timestamp="1600788583615">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="689" y="260" width="639" height="524" key="StructurePopup/0.27.1920.1005@0.27.1920.1005" timestamp="1600788583615" />
+    <state x="531" y="220" width="848" height="626" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603111634249">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="531" y="220" width="848" height="626" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1005@0.27.1920.1005" timestamp="1603111634249" />
+    <state x="434" y="1328" width="1041" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601695270878">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="434" y="1328" width="1041" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601695270878" />
+    <state x="651" y="138" width="757" height="783" key="find.popup" timestamp="1604335835024">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="651" y="1199" width="757" height="842" key="find.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601697711100" />
+    <state x="651" y="138" width="757" height="783" key="find.popup/0.27.1920.1005@0.27.1920.1005" timestamp="1604335835024" />
+    <state x="269" y="256" width="1372" height="554" key="new project wizard" timestamp="1605538853653">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="269" y="256" width="1372" height="554" key="new project wizard/0.27.1920.1005@0.27.1920.1005" timestamp="1605538853653" />
+    <state x="624" y="233" key="run.anything.popup" timestamp="1601708884034">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="233" key="run.anything.popup/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601708884034" />
+    <state x="623" y="257" width="672" height="631" key="search.everywhere.popup" timestamp="1603117750760">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="623" y="247" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601709161632" />
+    <state x="623" y="1327" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601695337035" />
+    <state x="623" y="257" width="672" height="631" key="search.everywhere.popup/0.27.1920.1005@0.27.1920.1005" timestamp="1603117750760" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

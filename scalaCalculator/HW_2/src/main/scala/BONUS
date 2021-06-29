@@ -1,0 +1,15 @@
+#1 Find element by recursion in list
+
+def abcdef(list: List[String]): Unit = {
+  case Nil => println("nil")
+  case head :: tail => {
+    println(head)
+    abcdef(tail)
+  }
+}
+
+--------------
+
+#2 Time map and set
+
+As Array, list, HashSet there are also do O(n) work, they dont need more work when collection grows

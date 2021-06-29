@@ -1,0 +1,10 @@
+/backend_service/target/*
+/backend_service/.idea/*
+/Consumer 2/.idea/*
+/Consumer 2/target/*
+/consumer_1/.idea/*
+/consumer_1/target/*
+/producer/.idea/*
+/producer/target/*
+/Service 3/.idea/*
+/Service 3/target/*
